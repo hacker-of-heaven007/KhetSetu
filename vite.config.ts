@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     port: 5173,
     host: true,
-    allowedHosts: ['khetsetu-i1tq.onrender.com']
+    allowedHosts: ['https://khetsetu-i1tq.onrender.com']
   }
 })
