@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": "farmer-1",
+      "name": "Ramesh Mondal",
+      "phone": "9830124589",
+      "email": "ramesh@khetsetu.in",
+      "role": "FARMER",
+      "village": "Nabapally, Barasat",
+      "district": "North 24 Parganas",
+      "state": "West Bengal",
+      "passwordHash": "$2a$10$8g4kKz8Mv1YVd5Kx8Fj3s.m6Z7h8j9k0l1m2n3o4p5q6r7s8t9u0v",
+      "verified": true,
+      "createdAt": "2026-09-01T09:44:33.361Z"
+    },
+    {
+      "id": "buyer-1",
+      "name": "FreshMart Procurement Hub",
+      "businessName": "FreshMart Superstores",
+      "phone": "9830011223",
+      "email": "procure@freshmart.com",
+      "role": "BUYER",
+      "buyerType": "Retailer",
+      "location": "Kolkata Wholesale Terminal, Ultadanga",
+      "passwordHash": "$2a$10$8g4kKz8Mv1YVd5Kx8Fj3s.m6Z7h8j9k0l1m2n3o4p5q6r7s8t9u0v",
+      "verified": true,
+      "createdAt": "2026-09-01T09:44:33.363Z"
+    },
+    {
+      "id": "farmer-1788255898325",
+      "name": "Bikash Roy",
+      "phone": "9876543210",
+      "email": "",
+      "role": "FARMER",
+      "passwordHash": "$2b$10$waglzHAlsyuBxUrhwSK.eu4O2m/5P6OCnJiQjHVKrlxozvZt48K92",
+      "village": "Singur",
+      "district": "Hooghly",
+      "state": "West Bengal",
+      "businessName": "",
+      "buyerType": "Retailer",
+      "location": "Singur",
+      "verified": true,
+      "createdAt": "2026-09-01T09:44:58.325Z"
+    },
+    {
+      "id": "farmer-1788257532156",
+      "name": "Risit",
+      "phone": "1234567890",
+      "email": "test@gmail.com",
+      "role": "FARMER",
+      "passwordHash": "$2b$10$BMQq21XQzCIE9Kyo0QK6GOycu356XMUDW0hxSBgvx.uLcxb7NXwIy",
+      "village": "tollygunge",
+      "district": "South 24 Parganas",
+      "state": "West Bengal",
+      "businessName": "",
+      "buyerType": "Retailer",
+      "location": "tollygunge",
+      "verified": true,
+      "createdAt": "2026-09-01T10:12:12.156Z"
+    }
+  ],
+  "produce": [],
+  "demands": [],
+  "orders": []
+}
